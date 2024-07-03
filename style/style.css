@@ -7,3 +7,14 @@
     box-shadow: 5px 5px 5px gray;
     display: flex;
 }
+.heading{
+    font-size: larger;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    margin: 2px;
+    border: 2px double purple;
+    padding-bottom: 5px;
+    border-width: 10px;
+    
+}
