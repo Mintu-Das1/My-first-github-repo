@@ -1,0 +1,9 @@
+.paragraph{
+    background-color: aqua;
+    color: darkslategrey;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gray;
+    display: flex;
+}
